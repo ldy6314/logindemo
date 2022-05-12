@@ -1,0 +1,2 @@
+FLASK_APP=logindemo
+FLASK_ENV=development
